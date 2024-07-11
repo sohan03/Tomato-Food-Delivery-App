@@ -38,7 +38,7 @@ This project is a food delivery website with features such as user authenticatio
 1. Clone the repository:
 
    ```bash
-   https://github.com/imrohitsampannavar45/Food_Delievery_Tomato.git
+   https://github.com/sohan03/Tomato-Food-Delivery-App.git
 
    ```
 
@@ -73,7 +73,7 @@ This project is a food delivery website with features such as user authenticatio
 Previews of the Project
 # --- FrontEnd ----------- 
 # Home Page
-<img width="505" alt="image" src="https://github.com/imrohitsampannavar45/Food_Delievery_Tomato/assets/88710389/b1ed80de-7e4d-42cc-9729-2dfde8f13892">
+<img width="505" alt="image" src="https://github.com/sohan03/Tomato-Food-Delivery-App/blob/main/Food_Delievery_Tomato-main/backend/uploads/start.png">
 
 # Login Pop-Up
 <img width="263" alt="image" src="https://github.com/imrohitsampannavar45/Food_Delievery_Tomato/assets/88710389/3edb4d6e-8674-49f9-9054-44522c2b91f4">
